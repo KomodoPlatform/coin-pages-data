@@ -16,7 +16,32 @@ Welcome to the `coins-data` repository. This repository contains data and images
 │   ├── hero (Hero images for each coin)
 │   │   ├── BTC.png
 │   │   └── ETH.png
-│   └── socialCard (Images displayed by for social sites when the coin's url is shared)
+│   └── socialCard (Images displayed by social sites when the coin page's url is shared)
 │       ├── BTC.png
 │       └── ETH.png
 ```
+
+## Data Example
+
+```json
+{
+  "fcoin": "BTC",
+  "fname": "Bitcoin",
+  "name": "bitcoin",
+  "slug": "bitcoin",
+  "title": "Komodo Wallet — Bitcoin Wallet and DEX",
+  "metaDescription": "Komodo Wallet is a non-custodial Bitcoin wallet and decentralized exchange rolled into one app. HODL and trade Bitcoin on one app.",
+  "description": "The Bitcoin protocol launched on January 3, 2009, by an anonymous person, or group of people, using the alias Satoshi Nakamoto. Bitcoin is the world's first blockchain network, and its native currency — BTC — is the world's first cryptocurrency to gain widespread utility.<br/>According to Satoshi Nakamoto, the purpose of Bitcoin is to provide \"online payments to be sent directly from one party to another without going through a financial institution.\"",
+  "blogUrl": ""
+}
+```
+
+## Image Examples
+
+### Hero Image
+
+![BTC Hero Image](./images/hero/BTC.png)
+
+### Social Card Image
+
+![BTC social card Image](./images/socialCard/BTC.png)
