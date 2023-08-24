@@ -1,6 +1,6 @@
 {
-    "fname": "Ethereum",
     "ticker": "ETH",
+    "name": "Эфириум",
     "slug": "ethereum",
     "title": "Кошелек Komodo — кошелек Ethereum и DEX",
     "metaDescription": "Komodo Wallet — это некастодиальный кошелек Ethereum и децентрализованная биржа в одном приложении. HODL и торгуйте Ethereum в одном приложении.",

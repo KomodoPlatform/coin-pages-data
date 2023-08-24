@@ -1,6 +1,6 @@
 {
-    "fname": "Ethereum",
     "ticker": "ETH",
+    "name": "Ethereum",
     "slug": "ethereum",
     "title": "Komodo Wallet — Ethereum Wallet and DEX",
     "metaDescription": "Komodo Wallet is a non-custodial Ethereum wallet and decentralized exchange rolled into one app. HODL and trade Ethereum on one app.",

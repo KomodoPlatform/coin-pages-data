@@ -1,7 +1,6 @@
 {
-    "fcoin": "BTC",
-    "fname": "Bitcoin",
-    "name": "bitcoin",
+    "ticker": "BTC",
+    "name": "Биткоин",
     "slug": "bitcoin",
     "title": "Komodo Wallet — Bitcoin Wallet and DEX",
     "metaDescription": "Komodo Wallet — это биткойн-кошелек, не связанный с хранением, и децентрализованная биржа в одном приложении. HODL и торгуйте биткойнами в одном приложении.",
