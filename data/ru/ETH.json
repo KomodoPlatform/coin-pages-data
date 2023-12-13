@@ -5,5 +5,43 @@
     "title": "Кошелек Komodo — кошелек Ethereum и DEX",
     "metaDescription": "Komodo Wallet — это некастодиальный кошелек Ethereum и децентрализованная биржа в одном приложении. HODL и торгуйте Ethereum в одном приложении.",
     "description": "Ethereum — это глобальная платформа с открытым исходным кодом для децентрализованных приложений. Другими словами, цель состоит в том, чтобы создать всемирный компьютер, на котором каждый сможет создавать приложения децентрализованно? при этом все состояния и данные распределены и общедоступны. Ethereum поддерживает смарт-контракты, в которых разработчики могут писать код для программирования цифровых ценностей. Примеры децентрализованных приложений (dapps), созданных на Ethereum, включают токены, невзаимозаменяемые токены, децентрализованные финансовые приложения, протокол кредитования, децентрализованные биржи и многое другое.<br/>В Ethereum все транзакции и выполнение смарт-контрактов требуют небольшой плата, подлежащая уплате. Эта плата называется газом. С технической точки зрения, газ относится к единице измерения количества вычислительных усилий, необходимых для выполнения операции или смарт-контракта. Чем сложнее операция выполнения, тем больше газа требуется для ее выполнения. Плата за газ полностью выплачивается в эфире (ETH), который является собственной монетой блокчейна. Цена на газ может время от времени колебаться в зависимости от спроса в сети.",
-    "blogUrl": ""
+    "blogUrl": "",
+    "faq1Ans": "Bitcoin is a form of digital currency that aims to eliminate the need for central authorities such as banks or governments. Instead, Bitcoin uses blockchain technology to support peer-to-peer transactions between users on a decentralized network.",
+    "faq1AcademyLink": "",
+    "faq2Exchanges": "Coinbase, Binance, and Kraken",
+    "faq2AcademyLink": "",
+    "socialPlatforms": [
+        {
+            "name": "Reddit",
+            "textBeforeLink": "",
+            "linkText": "r/bitcoin",
+            "link": "https://www.reddit.com/r/Bitcoin/",
+            "textAfterLink": ""
+        },
+        {
+            "name": "Twitter",
+            "textBeforeLink": "Various prominent personalities and accounts discuss Bitcoin, such as",
+            "linkText": "@Bitcoin",
+            "link": "https://twitter.com/Bitcoin",
+            "textAfterLink": ""
+        },
+        {
+            "name": "Facebook",
+            "textBeforeLink": "There are numerous Bitcoin groups and pages. Such as",
+            "linkText": "",
+            "link": "",
+            "textAfterLink": ""
+        }
+    ],
+    "faq4Resources": [
+        {
+            "name": "Bitcoin.org",
+            "description": "An official resource for everything Bitcoin."
+        },
+        {
+            "name": "Blockchain.info",
+            "description": "A popular tool for exploring the Bitcoin blockchain."
+        }
+    ],
+    "faq4AcademyLink": ""
 }
